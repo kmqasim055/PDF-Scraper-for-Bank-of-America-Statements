@@ -1,0 +1,326 @@
+{
+   "message": "success",
+   "result": {
+      "title": null,
+      "account_number": " 4881 1420 2206",
+      "begin_date": " June 1, 2023 ",
+      "end_date": " June 30, 2023",
+      "beginning_balance": "$0.28",
+      "total_deposits": "9,341.75",
+      "total_withdrawals": "-8,437.64",
+      "ending_balance": "$904.39",
+      "total_amount_deposits": " 15",
+      "total_amount_withdrawals": " 34",
+      "average_ledger_balance": " $160.46",
+      "deposits_items": [
+         {
+            "date": "06/05/23",
+            "Description": "Stripe Integrate DES:TRANSFER   ID:ST-Y2T4D8B2C3G1  INDN:VICKY PIERRE            CO ID:1800948598 CCD ",
+            "amount": "96.55"
+         },
+         {
+            "date": "06/06/23",
+            "Description": "ALMA COMMUNITY   DES:Payment    ID:107474  INDN:Vicky Pierre            CO ID:7841856765 CCD ",
+            "amount": "1,371.76"
+         },
+         {
+            "date": "06/06/23",
+            "Description": "ARLOZOROV9       DES:Payment    ID:107474  INDN:Vicky Pierre            CO ID:8823454045 CCD ",
+            "amount": "329.96"
+         },
+         {
+            "date": "06/13/23",
+            "Description": "ALMA COMMUNITY   DES:Payment    ID:107474  INDN:Vicky Pierre            CO ID:7841856765 CCD ",
+            "amount": "1,471.50"
+         },
+         {
+            "date": "06/13/23",
+            "Description": "ARLOZOROV9       DES:Payment    ID:107474  INDN:Vicky Pierre            CO ID:8823454045 CCD ",
+            "amount": "218.55"
+         },
+         {
+            "date": "06/14/23",
+            "Description": "Stripe Integrate DES:TRANSFER   ID:ST-O7P2E2Q8X3O5  INDN:VICKY PIERRE            CO ID:1800948598 CCD ",
+            "amount": "96.55"
+         },
+         {
+            "date": "06/16/23",
+            "Description": "Transfer Earnin RXXXXXXXXX_1 ; \"EARNIN\" ",
+            "amount": "100.00"
+         },
+         {
+            "date": "06/21/23",
+            "Description": "ALMA COMMUNITY   DES:Payment    ID:107474  INDN:Vicky Pierre            CO ID:7841856765 CCD ",
+            "amount": "1,906.02"
+         },
+         {
+            "date": "06/21/23",
+            "Description": "ARLOZOROV9       DES:Payment    ID:107474  INDN:Vicky Pierre            CO ID:8823454045 CCD ",
+            "amount": "582.90"
+         },
+         {
+            "date": "06/22/23",
+            "Description": "Stripe Integrate DES:TRANSFER   ID:ST-W8S4W7D8C9G0  INDN:VICKY PIERRE            CO ID:1800948598 CCD ",
+            "amount": "96.55"
+         },
+         {
+            "date": "06/26/23",
+            "Description": "Headway          DES:Headway    ID:ST-L4Z8J8K3T7H1  INDN:PURPOSEFUL IQ DBA PIQW  CO ID:1800948598 CCD ",
+            "amount": "482.71"
+         },
+         {
+            "date": "06/26/23",
+            "Description": "Stripe Integrate DES:TRANSFER   ID:ST-U3E6B1D8A1Q7  INDN:VICKY PIERRE            CO ID:1800948598 CCD ",
+            "amount": "96.55"
+         },
+         {
+            "date": "06/27/23",
+            "Description": "ALMA COMMUNITY   DES:Payment    ID:107474  INDN:Vicky Pierre            CO ID:7841856765 CCD ",
+            "amount": "1,731.42"
+         },
+         {
+            "date": "06/27/23",
+            "Description": "ARLOZOROV9       DES:Payment    ID:107474  INDN:Vicky Pierre            CO ID:8823454045 CCD ",
+            "amount": "427.06"
+         },
+         {
+            "date": "06/30/23",
+            "Description": "Headway          DES:Headway    ID:ST-F0H5R2D6T5A9  INDN:PURPOSEFUL IQ DBA PIQW  CO ID:1800948598 CCD ",
+            "amount": "333.67"
+         }
+      ],
+      "total_list_deposits": "$9,341.75",
+      "subtotal_for_card_account": "-$532.14",
+      "withdrawal_items": [
+         {
+            "date": "06/05/23",
+            "Description": "Zelle Transfer Conf# gtflndufp; Vicky Pierre ",
+            "amount": "-95.00"
+         },
+         {
+            "date": "06/06/23",
+            "Description": "Zelle payment to Vicky Pierre Conf# ikpcs6ewy ",
+            "amount": "-1,700.00"
+         },
+         {
+            "date": "06/13/23",
+            "Description": "Zelle payment to Vicky Pierre Conf# c9g2abghq ",
+            "amount": "-1,692.00"
+         },
+         {
+            "date": "06/14/23",
+            "Description": "Zelle Transfer Conf# efh9d2ntp; Vicky Pierre ",
+            "amount": "-98.00"
+         },
+         {
+            "date": "06/16/23",
+            "Description": "Zelle payment to Vicky Pierre Conf# ed0xzskel ",
+            "amount": "-13.00"
+         },
+         {
+            "date": "06/16/23",
+            "Description": "Zelle payment to Vicky Pierre Conf# gffq46ajy ",
+            "amount": "-20.00"
+         },
+         {
+            "date": "06/16/23",
+            "Description": "Zelle Transfer Conf# c9oxa8z9c; Pierre, Vicky ",
+            "amount": "-10.00"
+         },
+         {
+            "date": "06/20/23",
+            "Description": "Zelle Transfer Conf# h4cc0oqqb; Pierre, Vicky ",
+            "amount": "-7.00"
+         },
+         {
+            "date": "06/20/23",
+            "Description": "Zelle payment to Vicky Pierre Conf# g8nmm632o ",
+            "amount": "-9.00"
+         },
+         {
+            "date": "06/21/23",
+            "Description": "Zelle payment to Vicky Pierre Conf# hdfwi7ydi ",
+            "amount": "-40.00"
+         },
+         {
+            "date": "06/21/23",
+            "Description": "Zelle payment to Vicky Pierre Conf# b1vyrcbzt ",
+            "amount": "-465.00"
+         },
+         {
+            "date": "06/21/23",
+            "Description": "Zelle Transfer Conf# ba51kuav0; Pierre, Vicky ",
+            "amount": "-925.00"
+         },
+         {
+            "date": "06/21/23",
+            "Description": "Zelle payment to Vicky Pierre Conf# gq3tlmqwp ",
+            "amount": "-55.00"
+         },
+         {
+            "date": "06/22/23",
+            "Description": "Zelle Transfer Conf# bhf6tdyzv; Pierre, Vicky ",
+            "amount": "-25.00"
+         },
+         {
+            "date": "06/22/23",
+            "Description": "Zelle Transfer Conf# if67dr0rj; Vicky Pierre ",
+            "amount": "-100.00"
+         },
+         {
+            "date": "06/22/23",
+            "Description": "Zelle payment to Vicky Pierre Conf# de1q4q7sw ",
+            "amount": "-729.00"
+         },
+         {
+            "date": "06/22/23",
+            "Description": "Dave, Inc        DES:DEBIT      ID:  INDN:Vicky Pierre            CO ID:1465396710 CCD  PMT INFO:649327dd8254491e669a5cc5/ fd3b91128d97ae  b ",
+            "amount": "-1.00"
+         },
+         {
+            "date": "06/27/23",
+            "Description": "Zelle Transfer Conf# ivupu5odg; Pierre, Vicky ",
+            "amount": "-95.00"
+         },
+         {
+            "date": "06/27/23",
+            "Description": "Zelle Transfer Conf# hujjc1c2a; Vicky Pierre ",
+            "amount": "-35.00"
+         },
+         {
+            "date": "06/27/23",
+            "Description": "Zelle Transfer Conf# a6z94eduy; Pierre, Vicky ",
+            "amount": "-440.00"
+         },
+         {
+            "date": "06/27/23",
+            "Description": "Zelle Transfer Conf# ixyiawle1; Vicky Pierre ",
+            "amount": "-355.00"
+         },
+         {
+            "date": "06/27/23",
+            "Description": "Zelle Transfer Conf# im5xla5z3; Vicky Pierre ",
+            "amount": "-176.00"
+         },
+         {
+            "date": "06/27/23",
+            "Description": "Zelle Transfer Conf# iaftdp11r; Pierre, Vicky ",
+            "amount": "-250.00"
+         },
+         {
+            "date": "06/27/23",
+            "Description": "Zelle payment to  Elsie Desir Conf# e4o7ulddb ",
+            "amount": "-150.00"
+         },
+         {
+            "date": "06/27/23",
+            "Description": "Earnin           DES:PAYMENTRET ID:XXXXXXXXX  INDN:vicky Pierre            CO ID:9911126000 WEB ",
+            "amount": "-108.50"
+         },
+         {
+            "date": "06/28/23",
+            "Description": "Zelle Transfer Conf# cgtxar69j; Pierre, Vicky ",
+            "amount": "-250.00"
+         },
+         {
+            "date": "06/29/23",
+            "Description": "Zelle Transfer Conf# h0p5fu585; Vicky Pierre ",
+            "amount": "-40.00"
+         },
+         {
+            "date": "06/29/23",
+            "Description": "Zelle Transfer Conf# ck727vbfi; Pierre, Vicky ",
+            "amount": "-22.00"
+         },
+         {
+            "date": "06/20/23",
+            "Description": "CHECKCARD  0616 SQ *ADVENTURE KID Katy         TX 55432863167208196585849 CKCD 8351 XXXXXXXXXXXX7655 XXXX XXXX XXXX 7655 ",
+            "amount": "-39.67"
+         },
+         {
+            "date": "06/21/23",
+            "Description": "H-E-B #596      06/21 #000224793 PURCHASE H-E-B #596         KATY          TX ",
+            "amount": "-66.97"
+         },
+         {
+            "date": "06/21/23",
+            "Description": "SAMSCLUB #6867  06/21 #000153100 PURCHASE 22402 BELLAIRE BL  RICHMOND      TX ",
+            "amount": "-179.10"
+         },
+         {
+            "date": "06/26/23",
+            "Description": "PURCHASE   0625 SIMPLEPRACTICE 8339535902   CA ",
+            "amount": "-105.53"
+         },
+         {
+            "date": "06/27/23",
+            "Description": "CHECKCARD  0626 SUNOCO 0979796 RICHMOND     TX CKCD 5542 XXXXXXXXXXXX7655 XXXX XXXX XXXX 7655 ",
+            "amount": "-32.15"
+         },
+         {
+            "date": "06/30/23",
+            "Description": "H-E-B #596      06/30 #000367346 PURCHASE H-E-B #596         KATY          TX ",
+            "amount": "-108.72"
+         }
+      ],
+      "total_list_withdrawals": "-$8,437.64",
+      "daily_ledger_balances": [
+         {
+            "date": "06/01",
+            "Balance": "0.28"
+         },
+         {
+            "date": "06/16",
+            "Balance": "57.15"
+         },
+         {
+            "date": "06/27",
+            "Balance": "991.44"
+         },
+         {
+            "date": "06/05",
+            "Balance": "1.83"
+         },
+         {
+            "date": "06/20",
+            "Balance": "1.48"
+         },
+         {
+            "date": "06/28",
+            "Balance": "741.44"
+         },
+         {
+            "date": "06/06",
+            "Balance": "3.55"
+         },
+         {
+            "date": "06/21",
+            "Balance": "759.33"
+         },
+         {
+            "date": "06/29",
+            "Balance": "679.44"
+         },
+         {
+            "date": "06/13",
+            "Balance": "1.60"
+         },
+         {
+            "date": "06/22",
+            "Balance": "0.88"
+         },
+         {
+            "date": "06/30",
+            "Balance": "904.39"
+         },
+         {
+            "date": "06/14",
+            "Balance": "0.15"
+         },
+         {
+            "date": "06/26",
+            "Balance": "474.61"
+         }
+      ]
+   }
+}
