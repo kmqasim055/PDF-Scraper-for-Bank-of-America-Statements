@@ -1,0 +1,504 @@
+{
+   "message": "success",
+   "result": {
+      "title": null,
+      "account_number": " 4830 7972 0190",
+      "begin_date": " April 1, 2023 ",
+      "end_date": " April 30, 2023",
+      "beginning_balance": "$11,507.42",
+      "total_deposits": "123,904.85",
+      "total_withdrawals": "-134,838.28",
+      "ending_balance": "$573.99",
+      "total_amount_deposits": " 28",
+      "total_amount_withdrawals": " 51",
+      "average_ledger_balance": " $10,171.87",
+      "deposits_items": [
+         {
+            "date": "04/03/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "13,063.92"
+         },
+         {
+            "date": "04/03/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "7,616.63"
+         },
+         {
+            "date": "04/03/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "4,792.72"
+         },
+         {
+            "date": "04/03/23",
+            "Description": "Zelle payment from CAFE DU JOUR INC for \"Test\"; Conf# b8r5nlqve ",
+            "amount": "1.00"
+         },
+         {
+            "date": "04/04/23",
+            "Description": "Zelle payment from CAFE DU JOUR INC for \"Hobart Dishwasher\"; Conf# gxiz2e96c ",
+            "amount": "5,200.00"
+         },
+         {
+            "date": "04/06/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "832.31"
+         },
+         {
+            "date": "04/07/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "2,068.81"
+         },
+         {
+            "date": "04/07/23",
+            "Description": "DoorDash, Inc.   DES:110 Saint  ID:ST-K5X3Z5O0I6H2  INDN:TEAM 110 INC            CO ID:4270465600 CCD ",
+            "amount": "135.08"
+         },
+         {
+            "date": "04/10/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "9,694.18"
+         },
+         {
+            "date": "04/10/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "6,839.24"
+         },
+         {
+            "date": "04/10/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "4,125.98"
+         },
+         {
+            "date": "04/11/23",
+            "Description": "Prfd Rwds for Bus-BofA Merchant Svs Cash Reward ",
+            "amount": "158.18"
+         },
+         {
+            "date": "04/13/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "2,538.51"
+         },
+         {
+            "date": "04/14/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "2,751.49"
+         },
+         {
+            "date": "04/14/23",
+            "Description": "DoorDash, Inc.   DES:110 Saint  ID:ST-O0D3G1Z0G0D0  INDN:TEAM 110 INC            CO ID:4270465600 CCD ",
+            "amount": "67.54"
+         },
+         {
+            "date": "04/17/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "12,441.09"
+         },
+         {
+            "date": "04/17/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "7,386.10"
+         },
+         {
+            "date": "04/17/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "7,197.97"
+         },
+         {
+            "date": "04/20/23",
+            "Description": "Zelle payment from CAFE DU JOUR INC for \"Mngmnt consult\"; Conf# en328l1ia ",
+            "amount": "4,800.00"
+         },
+         {
+            "date": "04/20/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "1,419.94"
+         },
+         {
+            "date": "04/21/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "1,208.32"
+         },
+         {
+            "date": "04/21/23",
+            "Description": "DoorDash, Inc.   DES:110 Saint  ID:ST-P7C9B6D8F7M0  INDN:TEAM 110 INC            CO ID:4270465600 CCD ",
+            "amount": "34.66"
+         },
+         {
+            "date": "04/24/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "13,441.00"
+         },
+         {
+            "date": "04/24/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "8,143.50"
+         },
+         {
+            "date": "04/24/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "5,252.43"
+         },
+         {
+            "date": "04/27/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "1,335.39"
+         },
+         {
+            "date": "04/28/23",
+            "Description": "BANK OF AMERICA  DES:DEPOSIT    ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "1,309.09"
+         },
+         {
+            "date": "04/28/23",
+            "Description": "DoorDash, Inc.   DES:110 Saint  ID:ST-H2N8Z3F9P2M4  INDN:TEAM 110 INC            CO ID:4270465600 CCD ",
+            "amount": "49.77"
+         }
+      ],
+      "total_list_deposits": "$123,904.85",
+      "subtotal_for_card_account": "",
+      "withdrawal_items": [
+         {
+            "date": "04/03/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1235382811 ",
+            "amount": "-8,000.00"
+         },
+         {
+            "date": "04/03/23",
+            "Description": "Online Banking payment to CRD 4004 Confirmation# 2652467119 ",
+            "amount": "-1,000.00"
+         },
+         {
+            "date": "04/03/23",
+            "Description": "Online Banking payment to CRD 5888 Confirmation# 1752475275 ",
+            "amount": "-800.00"
+         },
+         {
+            "date": "04/03/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1452481684 ",
+            "amount": "-3,000.00"
+         },
+         {
+            "date": "04/03/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1853997346 ",
+            "amount": "-4,000.00"
+         },
+         {
+            "date": "04/03/23",
+            "Description": "SAMSONSERVICING  DES:ACHPAYMENT ID:W017  INDN:Davids CafeWest Store   CO ID:XXXXXXXXXC CCD ",
+            "amount": "-2,650.00"
+         },
+         {
+            "date": "04/03/23",
+            "Description": "BANK OF AMERICA  DES:INTERCHNG  ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "-2,471.86"
+         },
+         {
+            "date": "04/03/23",
+            "Description": "BANK OF AMERICA  DES:FEE        ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "-380.15"
+         },
+         {
+            "date": "04/03/23",
+            "Description": "BANK OF AMERICA  DES:DISCOUNT   ID:372550392883  INDN:DAVIDS CAFE             CO ID:XXXXXXXXXB CCD ",
+            "amount": "-130.15"
+         },
+         {
+            "date": "04/04/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1661986832 ",
+            "amount": "-2,000.00"
+         },
+         {
+            "date": "04/04/23",
+            "Description": "SAMSONSERVICING  DES:ACHPAYMENT ID:W018  INDN:Davids CafeWest Store   CO ID:XXXXXXXXXC CCD ",
+            "amount": "-50.00"
+         },
+         {
+            "date": "04/04/23",
+            "Description": "PROVENCE LP      DES:ACH Debit  ID:9002215392  INDN:Davids Cafe             CO ID:9200502236 CCD ",
+            "amount": "-42.25"
+         },
+         {
+            "date": "04/04/23",
+            "Description": "ONDECK CAPITAL13 DES:00015733   ID:66677753  INDN:TEAM 110 INC.           CO ID:1863052343 CCD ",
+            "amount": "-20.00"
+         },
+         {
+            "date": "04/05/23",
+            "Description": "ONDECK CAPITAL13 DES:00015798   ID:66733991  INDN:TEAM 110 INC.           CO ID:1863052343 CCD ",
+            "amount": "-1,927.16"
+         },
+         {
+            "date": "04/06/23",
+            "Description": "ONDECK CAPITAL14 DES:00015833   ID:66760690  INDN:TEAM 110 INC.           CO ID:1872698999 CCD ",
+            "amount": "-876.92"
+         },
+         {
+            "date": "04/07/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1787970524 ",
+            "amount": "-9,000.00"
+         },
+         {
+            "date": "04/10/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1513192858 ",
+            "amount": "-8,000.00"
+         },
+         {
+            "date": "04/10/23",
+            "Description": "SAMSONSERVICING  DES:ACHPAYMENT ID:W019  INDN:Davids CafeWest Store   CO ID:XXXXXXXXXC CCD ",
+            "amount": "-2,650.00"
+         },
+         {
+            "date": "04/11/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1721794078 ",
+            "amount": "-4,500.00"
+         },
+         {
+            "date": "04/11/23",
+            "Description": "PROVENCE LP      DES:ACH Debit  ID:9002314778  INDN:Davids Cafe             CO ID:9200502236 CCD ",
+            "amount": "-42.25"
+         },
+         {
+            "date": "04/12/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1230966090 ",
+            "amount": "-2,000.00"
+         },
+         {
+            "date": "04/12/23",
+            "Description": "ONDECK CAPITAL13 DES:00015981   ID:66891841  INDN:TEAM 110 INC.           CO ID:1863052343 CCD ",
+            "amount": "-1,927.16"
+         },
+         {
+            "date": "04/13/23",
+            "Description": "ONDECK CAPITAL14 DES:00016024   ID:66918493  INDN:TEAM 110 INC.           CO ID:1872698999 CCD ",
+            "amount": "-876.92"
+         },
+         {
+            "date": "04/14/23",
+            "Description": "Online Banking payment to CRD 2141 Confirmation# 4147710452 ",
+            "amount": "-500.00"
+         },
+         {
+            "date": "04/14/23",
+            "Description": "Online Banking payment to CRD 4004 Confirmation# 2947713201 ",
+            "amount": "-500.00"
+         },
+         {
+            "date": "04/14/23",
+            "Description": "Online Banking payment to CRD 5888 Confirmation# 2947716825 ",
+            "amount": "-500.00"
+         },
+         {
+            "date": "04/14/23",
+            "Description": "Online Banking transfer to CHK 8289 Confirmation# 1847719905 ",
+            "amount": "-450.00"
+         },
+         {
+            "date": "04/14/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1750891500 ",
+            "amount": "-5,000.00"
+         },
+         {
+            "date": "04/17/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1965950044 ",
+            "amount": "-5,000.00"
+         },
+         {
+            "date": "04/17/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1774381325 ",
+            "amount": "-6,000.00"
+         },
+         {
+            "date": "04/17/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1876013241 ",
+            "amount": "-4,500.00"
+         },
+         {
+            "date": "04/17/23",
+            "Description": "SAMSONSERVICING  DES:ACHPAYMENT ID:W020  INDN:Davids CafeWest Store   CO ID:XXXXXXXXXC CCD ",
+            "amount": "-2,650.00"
+         },
+         {
+            "date": "04/17/23",
+            "Description": "SBA LOAN         DES:PAYMENT    ID:0000  INDN:DANIEL RIVERA           CO ID:7300000104 CCD ",
+            "amount": "-1,300.00"
+         },
+         {
+            "date": "04/18/23",
+            "Description": "NYS DTF BILL PYT DES:Tax Paymnt ID:000000097806705  INDN:M55476106520423         CO ID:EXXXXXXXXX CCD ",
+            "amount": "-2,500.00"
+         },
+         {
+            "date": "04/18/23",
+            "Description": "PROVENCE LP      DES:ACH Debit  ID:9002400263  INDN:Davids Cafe             CO ID:9200502236 CCD ",
+            "amount": "-42.25"
+         },
+         {
+            "date": "04/19/23",
+            "Description": "Zelle Transfer Conf# h7xrpou9v; Fruit of the Vine ",
+            "amount": "-357.80"
+         },
+         {
+            "date": "04/19/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1390473526 ",
+            "amount": "-1,500.00"
+         },
+         {
+            "date": "04/19/23",
+            "Description": "ONDECK CAPITAL13 DES:00016192   ID:67049951  INDN:TEAM 110 INC.           CO ID:1863052343 CCD ",
+            "amount": "-1,927.16"
+         },
+         {
+            "date": "04/20/23",
+            "Description": "ONDECK CAPITAL14 DES:00016242   ID:67076493  INDN:TEAM 110 INC.           CO ID:1872698999 CCD ",
+            "amount": "-876.92"
+         },
+         {
+            "date": "04/21/23",
+            "Description": "CON ED OF NY     DES:XXXXXXXXXX ID:417125601000039  INDN: TEAM 110 INC           CO ID:2462467002 PPD ",
+            "amount": "-1,777.99"
+         },
+         {
+            "date": "04/24/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1716983042 ",
+            "amount": "-9,000.00"
+         },
+         {
+            "date": "04/24/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1134290093 ",
+            "amount": "-20,000.00"
+         },
+         {
+            "date": "04/24/23",
+            "Description": "SAMSONSERVICING  DES:ACHPAYMENT ID:W021  INDN:Davids CafeWest Store   CO ID:XXXXXXXXXC CCD ",
+            "amount": "-2,650.00"
+         },
+         {
+            "date": "04/24/23",
+            "Description": "NYS DTF BILL PYT DES:Tax Paymnt ID:000000098532336  INDN:M56176308620423         CO ID:EXXXXXXXXX CCD ",
+            "amount": "-1,815.01"
+         },
+         {
+            "date": "04/25/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1842792928 ",
+            "amount": "-3,000.00"
+         },
+         {
+            "date": "04/25/23",
+            "Description": "PROVENCE LP      DES:ACH Debit  ID:9002469058  INDN:Davids Cafe             CO ID:9200502236 CCD ",
+            "amount": "-42.25"
+         },
+         {
+            "date": "04/26/23",
+            "Description": "Online Banking transfer to CHK 8289 Confirmation# 1652454596 ",
+            "amount": "-300.00"
+         },
+         {
+            "date": "04/26/23",
+            "Description": "ONDECK CAPITAL13 DES:00016388   ID:67207412  INDN:TEAM 110 INC.           CO ID:1863052343 CCD ",
+            "amount": "-1,927.16"
+         },
+         {
+            "date": "04/27/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1461846384 ",
+            "amount": "-2,500.00"
+         },
+         {
+            "date": "04/27/23",
+            "Description": "ONDECK CAPITAL14 DES:00016417   ID:67233808  INDN:TEAM 110 INC.           CO ID:1872698999 CCD ",
+            "amount": "-876.92"
+         },
+         {
+            "date": "04/28/23",
+            "Description": "Online Banking transfer to CHK 0187 Confirmation# 1468593195 ",
+            "amount": "-1,000.00"
+         }
+      ],
+      "total_list_withdrawals": "-$134,838.28",
+      "daily_ledger_balances": [
+         {
+            "date": "04/01",
+            "Balance": "11,507.42"
+         },
+         {
+            "date": "04/11",
+            "Balance": "14,494.73"
+         },
+         {
+            "date": "04/20",
+            "Balance": "14,689.16"
+         },
+         {
+            "date": "04/03",
+            "Balance": "14,549.53"
+         },
+         {
+            "date": "04/12",
+            "Balance": "10,567.57"
+         },
+         {
+            "date": "04/21",
+            "Balance": "14,154.15"
+         },
+         {
+            "date": "04/04",
+            "Balance": "17,637.28"
+         },
+         {
+            "date": "04/13",
+            "Balance": "12,229.16"
+         },
+         {
+            "date": "04/24",
+            "Balance": "7,526.07"
+         },
+         {
+            "date": "04/05",
+            "Balance": "15,710.12"
+         },
+         {
+            "date": "04/14",
+            "Balance": "8,098.19"
+         },
+         {
+            "date": "04/25",
+            "Balance": "4,483.82"
+         },
+         {
+            "date": "04/06",
+            "Balance": "15,665.51"
+         },
+         {
+            "date": "04/17",
+            "Balance": "15,673.35"
+         },
+         {
+            "date": "04/26",
+            "Balance": "2,256.66"
+         },
+         {
+            "date": "04/07",
+            "Balance": "8,869.40"
+         },
+         {
+            "date": "04/18",
+            "Balance": "13,131.10"
+         },
+         {
+            "date": "04/27",
+            "Balance": "215.13"
+         },
+         {
+            "date": "04/10",
+            "Balance": "18,878.80"
+         },
+         {
+            "date": "04/19",
+            "Balance": "9,346.14"
+         },
+         {
+            "date": "04/28",
+            "Balance": "573.99"
+         }
+      ]
+   }
+}
