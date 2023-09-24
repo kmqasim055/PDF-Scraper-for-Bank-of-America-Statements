@@ -1,48 +1,14 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 import os
 import fitz
 import time
-import pandas as pd
 import re
-from time import sleep
-import sys
 
-
-# In[8]:
-
-
-import argparse
-
-# Set up the argument parser
-parser = argparse.ArgumentParser(description='Process bank statements.')
-
-# Add an argument for the bank name
-parser.add_argument('bank', type=str, help='Name of the bank to process')
-
-# Parse the command-line arguments
-args = parser.parse_args()
-
-# Now, you can access the bank name using args.bank
-bank = args.bank
-
-
-# In[6]:
-
-
-
-folder_path = ".\data\Bank of America\input"
-folder_output = ".\data\Bank of America\output"
-
-if folder_path.lower().find(bank.lower()) != -1:
+def parse_bank_of_america():
+    folder_path = "./data/Bank of America/input"
+    folder_output = "./data/Bank of America/output"
     
     # Check if the directory exists, and create it if it doesn't
     os.makedirs(folder_output, exist_ok=True)
-
     date_pattern = r'\d{2}/\d{2}/\d{2}'
     date_pattern2 = r'\d{2}/\d{2}'
 
@@ -258,9 +224,6 @@ if folder_path.lower().find(bank.lower()) != -1:
             # Assuming 'filename' is defined somewhere
             with open(os.path.join(folder_output, filename + '.json'), 'w') as json_file:
                 json.dump(ledger_data, json_file, indent=3)
-
-
-# In[ ]:
 
 
 
